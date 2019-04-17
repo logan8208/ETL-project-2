@@ -46,7 +46,7 @@ Using two different databases (Youtube data and world population datasets) in an
 <br>
 
 
-
+<br>
 
 
 * `5 country youtube trending DataFrames`
@@ -93,7 +93,11 @@ Using two different databases (Youtube data and world population datasets) in an
 <br><br>
   * Create a connection to the SQLdatabase.
   
+  <br>
+  
   <img src="readme-media/trans6.PNG" alt="t6">
+  
+  <br>
   
   * Join between `population table` and `youtube table`on `country_id`
   
@@ -105,7 +109,7 @@ Using two different databases (Youtube data and world population datasets) in an
   **Foreign key** : `category_id` in category table
   **Reference key** : `category_id` in youtube table
   
- 
+ <br><br>
  
   
   ![GitHub Logo](/img/EER_diagram.png)
