@@ -16,11 +16,20 @@ Using two different databases (Youtube data and world population datasets) in an
 
 <img src="readme-media/pop.PNG" alt="pop pic">
 
+<br>
+
 <img src="readme-media/yt-countries-data-names.PNG" alt="yt format -data">
+
+<br>
 
 <img src="readme-media/yt-data-description.PNG" alt="yt format -desc">
 
+<br>
+
 <img src="readme-media/load3.PNG" alt="excelex">
+
+<br>
+<br>
 
 
 * Each 5 countries youtube trending files (.csv) into each pandas DataFrames
@@ -29,12 +38,14 @@ Using two different databases (Youtube data and world population datasets) in an
 
 * World population CSV file (.csv) into pandas DataFrame
 
+<br><br>
 
 ## Tranformation:
-
+<br><br>
 <img src="readme-media/trans1.PNG" alt="t1">
+<br>
 
-<img src="readme-media/trans2.PNG" alt="t2">
+
 
 
 
@@ -44,13 +55,25 @@ Using two different databases (Youtube data and world population datasets) in an
  
   ['trending_date', 'category_id', 'views']
   
+<br><br>
+  
+<img src="readme-media/trans2.PNG" alt="t2">
+
+<br>
+  
 <img src="readme-media/trans3.PNG" alt="t3">
+
+<br><br>
 
 * `Youtube category DataFrame`
 
  **Rename** `id` column to `category_id`column.
  
+<br>
+ 
 <img src="readme-media/trans4.PNG" alt="t4">
+
+<br>
 
 * `World population DataFrame `
 
@@ -60,13 +83,14 @@ Using two different databases (Youtube data and world population datasets) in an
 
 **Create** the `country_id` column for each country.
 
-
+<br>
 
 <img src="readme-media/trans5.PNG" alt="t5">
 
 
-
+<br><br>
 # Load:
+<br><br>
   * Create a connection to the SQLdatabase.
   
   <img src="readme-media/trans6.PNG" alt="t6">
