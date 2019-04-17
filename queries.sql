@@ -35,3 +35,7 @@ CREATE TABLE youtube_trending (
   Population INT,
   category TEXT
 );
+SELECT *
+FROM youtube AS Y
+JOIN population AS P ON P.country_id = Y.country_id
+JOIN category AS C ON C.category_id = Y.category_id;
