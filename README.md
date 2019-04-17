@@ -9,8 +9,9 @@ World population data: http://www.geoba.se/population.php?pc=world&page=3&type=2
 
 # Exctaction:
 
+<img src="readme-media/pop.PNG" alt="pop pic">
 
-
+<img src="readme-media/yt-countries-data-names.PNG" alt="yt format -data">
 
 # Tranformation:
 
