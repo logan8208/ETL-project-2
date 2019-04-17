@@ -50,18 +50,20 @@ Team member : Logan C, Hyunsoo Kim
 # Load:
   * Create a connection to database.
   
-  * Join between `population table` and `youtube table`
+  * Join between `population table` and `youtube table`on `country_id`
   
   **Foreign key** : `country_id` in population table
   **Reference key** : `country_id` in youtube table
   
-  * Join between `category table` and `youtube table`
+  * Join between `category table` and `youtube table` on `category_id`
   
   **Foreign key** : `category_id` in category table
   **Reference key** : `category_id` in youtube table
   
  
-
+ 
+  
+  ![GitHub Logo](/img/EER_diagram.png)
 
 
 
