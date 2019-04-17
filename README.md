@@ -13,6 +13,9 @@ World population data: http://www.geoba.se/population.php?pc=world&page=3&type=2
 
 <img src="readme-media/yt-countries-data-names.PNG" alt="yt format -data">
 
+<img src="readme-media/yt-data-description.PNG" alt="yt format -desc">
+
+
 # Tranformation:
 
 
